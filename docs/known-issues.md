@@ -6,11 +6,11 @@
 
 ### Que faire si...
 
-**J'ai rencontré un problème non listé ici**
+#### J'ai rencontré un problème non listé ici
 Merci de nous signaler votre problème ici : [Retours application Ticket Smile](http://ticket-smile.com/retours-ticket-smile/) 
 en suivant les instructions.
 
-**Mon problème est dans la liste**
+#### Mon problème est dans la liste
 Vous n'avez rien à faire ! Le problème est connu de notre équipe et vous pouvez être sûrs que nous travaillons à le corriger. 
 
 # Améliorations prévues 

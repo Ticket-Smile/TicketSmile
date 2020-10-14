@@ -2,12 +2,13 @@
 
 - Une notification s'envoie quand même si on tire un ticket avant 10h.
 - Latence lors de l'affichage d'un ancien ticket tiré.
-- Connexion avec le même compte sur différents appareils impossible.
+- Connexion avec le même compte sur différents appareils (simultanés) impossible.
+- L'animation d'un ticket tiré peut réapparaitre si on change de page avant qu'elle ne finisse.
 
 ### Que faire si...
 
 #### J'ai rencontré un problème non listé ici
-Merci de nous signaler votre problème ici : [Retours application Ticket Smile](http://ticket-smile.com/retours-ticket-smile/) 
+Merci de nous signaler votre problème ici : [Retours application Ticket Smile](http://ticket-smile.com/retours-ticket-smile/) <br />
 en suivant les instructions.
 
 #### Mon problème est dans la liste

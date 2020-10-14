@@ -4,6 +4,7 @@
 - Latence lors de l'affichage d'un ancien ticket tiré.
 - Connexion avec le même compte sur différents appareils (simultanée) impossible.
 - L'animation d'un ticket tiré peut réapparaitre si on change de page avant qu'elle ne finisse.
+- Faute d'orthographe dans le tutoriel "Que t'évoque-t-il".
 
 ### Que faire si...
 

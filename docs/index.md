@@ -1,5 +1,3 @@
-# Ticket Smile
-
 Ticket Smile est l’application « poil à bouger » pour mieux se connaître et communiquer autrement !
 
 Facile, simple et amusant, ce jeu de cartes déclenche une découverte de soi, le temps d’une pause et

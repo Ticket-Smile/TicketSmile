@@ -2,7 +2,7 @@
 
 - Une notification s'envoie quand même si on tire un ticket avant 10h.
 - Latence lors de l'affichage d'un ancien ticket tiré.
-- Connexion avec le même compte sur différents appareils (simultanés) impossible.
+- Connexion avec le même compte sur différents appareils (simultanée) impossible.
 - L'animation d'un ticket tiré peut réapparaitre si on change de page avant qu'elle ne finisse.
 
 ### Que faire si...

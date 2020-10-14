@@ -7,4 +7,4 @@ rencontre de ses besoins.
 Ticket Smile est une invitation à voyager au cœur de soi-même. Tout simplement.
 
 _Application actuellement en phase de test. A retrouver bientôt sur le Play Store !_ <br />
-_[Voir les problèmes connus et améliorations futures](http://ticket-smile.com/retours-ticket-smile/)_
+_[Voir les problèmes connus et améliorations futures](https://ticket-smile.github.io/TicketSmile/known-issues)_

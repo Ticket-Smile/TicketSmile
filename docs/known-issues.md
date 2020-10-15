@@ -1,5 +1,6 @@
 # Problèmes connus
 
+- Écran blanc juste après l'écran de chargement au lancement de l'application.
 - Une notification s'envoie quand même si on tire un ticket avant 10h.
 - Latence lors de l'affichage d'un ancien ticket tiré.
 - Connexion avec le même compte sur différents appareils (simultanée) impossible.

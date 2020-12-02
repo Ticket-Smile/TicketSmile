@@ -3,6 +3,7 @@
 - L'animation d'un ticket tiré peut réapparaitre si on change de page avant qu'elle ne finisse.
 - Faute d'orthographe après tirage du ticket "<ins>Qu’est-ce</ins> que ce ticket évoque pour toi ?".
 - Problèmes d'affichage si la police d'écriture du téléphone est trop élevée 
+- Retrait temporaire de la section "contacter Magali"
 
 ### Que faire si...
 

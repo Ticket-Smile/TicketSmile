@@ -1,11 +1,8 @@
 # Problèmes connus
 
-- Écran blanc juste après l'écran de chargement au lancement de l'application.
-- Une notification s'envoie quand même si on tire un ticket avant 10h.
-- Latence lors de l'affichage d'un ancien ticket tiré.
-- Connexion avec le même compte sur différents appareils (simultanée) impossible.
 - L'animation d'un ticket tiré peut réapparaitre si on change de page avant qu'elle ne finisse.
-- Faute d'orthographe dans le tutoriel "Que t'évoque-t-il".
+- Faute d'orthographe après tirage du ticket "<ins>Qu’est-ce</ins> que ce ticket évoque pour toi ?".
+- Problèmes d'affichage si la police d'écriture du téléphone est trop élevée 
 
 ### Que faire si...
 
@@ -18,7 +15,6 @@ Vous n'avez rien à faire ! Le problème est connu de notre équipe et vous pouv
 
 # Améliorations prévues 
 - Détection de mises à jour automatique
-- Ajout d'un menu paramètres (heures de notifications, gestion du compte...)
 - Améliorations ergonomiques (partie "En savoir plus" notamment)
 - Ajout d'animations pour rendre l'application plus "dynamique"
 - Afficher le besoin que représente le ticket tiré (mental, physique...)

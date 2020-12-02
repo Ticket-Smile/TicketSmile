@@ -14,6 +14,7 @@ en suivant les instructions.
 Vous n'avez rien à faire ! Le problème est connu de notre équipe et vous pouvez être sûrs que nous travaillons à le corriger. 
 
 # Améliorations prévues 
+- Ajouter un lien de téléchargement de l'appli dans le partage du ticket (quand elle sera disponible pour tous).
 - Détection de mises à jour automatique
 - Améliorations ergonomiques (partie "En savoir plus" notamment)
 - Ajout d'animations pour rendre l'application plus "dynamique"
